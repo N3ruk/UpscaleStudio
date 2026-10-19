@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Upscale Studio
+Comment=Reescalar imágenes con Real-ESRGAN
+Exec=upscale-studio %f
+Icon=upscale-studio
+StartupWMClass=upscale-studio
+Terminal=false
+Categories=Graphics;Photography;
+MimeType=image/png;image/jpeg;image/webp;
